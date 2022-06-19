@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Open Xampp control panel and **Apache** and **Mysql** service
 
-* Open http://localhost/phpmyadmin/ and import the sql script
+* Open http://localhost/phpmyadmin/ and import the sql script to database
 
 ### Running the app
 
