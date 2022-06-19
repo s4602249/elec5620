@@ -1,7 +1,7 @@
 # Elec5620 (The website of Landmark detection)
 
 It is an website that can help user to detect and identify the famous landmark and share their pictures to the public. 
-This project contains three stakeholders - users, admi and trave agency.
+This project contains three stakeholders - users, admin and trave agency.
 
 ## Getting Started
 
